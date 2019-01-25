@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Speech Pirate
 
 You can use the [editor on GitHub](https://github.com/coltonblair13/SpeechPirate/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
